@@ -1,0 +1,23 @@
+Alberto Elizondo
+
+Inventario 1  = Productos mercancia
+
+Fecha de inicio = Lunes 01 enero 2020
+
+Productos # 3
+
+1.papa
+2.arroz
+3.frijol
+
+Costos $
+
+1. $50
+2. $100
+3. $150 comentario agregado desde bash
+
+3er coment desde bash
+
+
+
+tres renglones desde bash 
