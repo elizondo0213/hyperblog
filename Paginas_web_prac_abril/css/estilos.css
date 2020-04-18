@@ -2,11 +2,7 @@ body
 {
     color: rgb(7, 5, 0);
     text-align: left;
-<<<<<<< HEAD
-    font-family: 'Franklin Gothic Medium';
-=======
     font-family: monospace;
->>>>>>> cabecera
     font-size: 16px;
     background-color: rgb(134, 221, 209);
 }
