@@ -9,15 +9,16 @@ Productos # 3
 1.papa
 2.arroz
 3.frijol
+4.NARANJA
 
 Costos $
 
 1. $50
 2. $100
 3. $150 comentario agregado desde bash
+4. $200
 
 3er coment desde bash
 
+** ARCHIVO MODIFICADO DESPUES DEL PRIMER COMMIT 
 
-
-tres renglones desde bash 
