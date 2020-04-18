@@ -1,24 +1,58 @@
 body
 {
-    color: chocolate;
+    color: rgb(7, 5, 0);
     text-align: left;
+<<<<<<< HEAD
     font-family: 'Franklin Gothic Medium';
+=======
+    font-family: monospace;
+>>>>>>> cabecera
     font-size: 16px;
-    background-color: darkcyan;
+    background-color: rgb(134, 221, 209);
+}
 
+#cabecera
+{
+   background-color: rgba(253, 200, 55, 0.959) ;
+   color: rgb(2, 0, 0);
+   font-weight: bold;
+   margin: 0;
+   padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding:  0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-
+    box-shadow: 1px 11px 16px -3px rgba(0,0,0,0.75);
 }
 
 #container h1
 {
     font-size:  20px;
+}
+
+#post 
+{
+    padding: 1em;
+}
+
+#post2
+{
+    padding: 2em;
+    border: 1px solid #DDD; 
+    margin-top: 2em;
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-bottom: 2em;
 }
