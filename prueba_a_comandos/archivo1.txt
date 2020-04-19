@@ -1,5 +1,8 @@
 Prueba de archivo 1
 
+elizondo13 tambien se acaba de unir al proyecto , todavia veremos quien sera
+el lider del proyecto y apruebe los cambios para las versiones finales.
+
 Anita Elizondo tiene 45 años y se acaba de integrar al equipo para desarrollar header o footer
 
 se le hizo commit a este archivo , vamos a dejarle un mensaje en el commit , este renglon es para probar modificacion en un segundo commit
